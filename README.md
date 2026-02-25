@@ -8,9 +8,10 @@ In this game, you play as shrek, navigating an open world hunting down Donkeys w
 This is a simple 2D adventure game built with Java Swing. The player controls a hero character that can move around a world, collect items, and interact with enemies.
 
 ## Installation Instructions
-1. Clone the repository: `git clone <repository-url>`
-2. Compile the Java source files: `javac *.java`
-3. Run the game: `java DonkeyGame`
+1. Java Development Kit (JDK): Ensure you have Version 8 or higher installed. It is required to compile and run the game.
+2. Clone the repository: `git clone <repository-url>`
+3. Compile the Java source files: `javac *.java`
+4. Run the game: `java DonkeyGame`
 
 ## Usage Examples
 - Use the arrow keys to move the hero.
